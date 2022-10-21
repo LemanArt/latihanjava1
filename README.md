@@ -37,7 +37,7 @@ public class personGo {
 }
 ```
 • Hasil Run
-![img]projectJava1/src/1.png
+![Gambar 1]ss/1.png
 
 ---
 
@@ -90,4 +90,4 @@ public class BankGo {
 }
 ```
 • Hasil Run
-![img]projectJava1/src/2.png
+![Gambar 2]ss/2.png
